@@ -1,0 +1,51 @@
+1	DE	Delaware	07-DEC	1787
+2	PA	Pennsylvania	12-DEC	1787
+3	NJ	New Jersey	18-DEC	1787
+4	GA	Georgia	02-JAN	1788
+5	CT	Connecticut	09-JAN	1788
+6	MA	Massachusetts	06-FEB	1788
+7	MD	Maryland	28-APR	1788
+8	SC	South Carolina	23-MAY	1788
+9	NH	New Hampshire	21-JUN	1788
+10	VA	Virginia	25-JUL	1788
+11	NY	New York	26-JUL	1788
+12	NC	North Carolina	21-NOV	1789
+13	RI	Rhode Island	29-NOV	1790
+14	VT	Vermont	04-MAR	1791
+15	KY	Kentucky	01-JUN	1792
+16	TN	Tennessee	01-JUN	1796
+17	OH	Ohio	19-FEB	1803
+18	LA	Louisiana	30-APR	1812
+19	IN	Indiana	11-DEC	1816
+20	MS	Mississippi	10-DEC	1817
+21	IL	Illinois	03-DEC	1818
+22	AL	Alabama	14-DEC	1819
+23	ME	Maine	15-MAR	1820
+24	MO	Missouri	10-AUG	1821
+25	AR	Arkansas	15-JUN	1836
+26	MI	Michigan	26-JAN	1837
+27	FL	Florida	03-MAR	1845
+28	TX	Texas	29-DEC	1845
+29	IA	Iowa	28-DEC	1846
+30	WI	Wisconsin	29-MAY	1848
+31	CA	California	09-SEP	1850
+32	MN	Minnesota	11-MAY	1858
+33	OR	Oregon	14-FEB	1859
+34	KS	Kansas	29-JAN	1861
+35	WV	West Virginia	20-JUN	1863
+36	NV	Nevada	31-OCT	1864
+37	NE	Nebraska	01-MAR	1867
+38	CO	Colorado	01-AUG	1876
+39	ND	North Dakota	02-NOV	1889
+40	SD	South Dakota	02-NOV	1889
+41	MT	Montana	08-NOV	1889
+42	WA	Washington	11-NOV	1889
+43	ID	Idaho	03-JUL	1890
+44	WY	Wyoming	10-JUL	1890
+45	UT	Utah	04-JAN	1896
+46	OK	Oklahoma	16-NOV	1907
+47	NM	New Mexico	06-JAN	1912
+48	AZ	Arizona	14-FEB	1912
+49	AK	Alaska	03-JAN	1959
+50	HI	Hawaii	21-AUG	1959
+
